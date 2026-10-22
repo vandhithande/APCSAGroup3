@@ -6,3 +6,5 @@ On Tuesday, we implemented the main class that put together the mad libs. We als
 
 On Wednesday, I noticed a flaw in main, which we fixed. I then made the fork in the repository.
 Then, Tiger also realized that he misspelled askReceive as askRecieve a short while before typing this, which led to us changing the code in the main repository along with our forked ones. 
+
+<img width="601" height="111" alt="image" src="https://github.com/user-attachments/assets/e0c9e9f1-f644-4a89-979d-8dde04346bfc" />
